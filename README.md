@@ -12,7 +12,7 @@ The app allows users to report:
 
 Built using modern Android development technologies including Jetpack Compose, Firebase, Google Maps SDK, and MVVM architecture.
 
----
+----
 
 # 🚀 Features
 
