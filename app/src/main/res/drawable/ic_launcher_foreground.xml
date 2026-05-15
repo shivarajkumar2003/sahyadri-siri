@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Drop Border (Dark Blue/Slate) -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,15C48,25 30,48 30,65C30,78.25 40.75,89 54,89C67.25,89 78,78.25 78,65C78,48 60,25 54,15Z" />
+
+    <!-- Inner Drop Fill (Blue) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,22C50,30 36,50 36,65C36,75 44,83 54,83C64,83 72,75 72,65C72,50 58,30 54,22Z" />
+
+    <!-- Wave / Accent (White/Light Blue) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,65C48,65 52,58 58,58C64,58 68,62 68,68C68,74 62,78 54,78C46,78 40,74 40,68C40,64 43,60 48,60"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+</vector>
